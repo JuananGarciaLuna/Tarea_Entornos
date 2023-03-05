@@ -1,0 +1,99 @@
+src/apuesta/Apuesta.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/apuesta/Apuesta.java:3:	DataClass:	DataClass: The class 'Apuesta' is suspected to be a Data Class (WOC=16.667%, NOPA=0, NOAM=8, WMC=24)
+src/apuesta/Apuesta.java:5:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'getGoles_local' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:9:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'goles_local' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'goles_local' is not assigned and could be declared final
+src/apuesta/Apuesta.java:9:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'setGoles_local' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:9:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'goles_local' is not final.
+src/apuesta/Apuesta.java:13:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'getGoles_visitante' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:17:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'goles_visitante' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'goles_visitante' is not assigned and could be declared final
+src/apuesta/Apuesta.java:17:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'setGoles_visitante' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:17:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'goles_visitante' is not final.
+src/apuesta/Apuesta.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'apostado' is not assigned and could be declared final
+src/apuesta/Apuesta.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/apuesta/Apuesta.java:29:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/apuesta/Apuesta.java:29:	FieldNamingConventions:	FieldNamingConventions: The field name 'dinero_disp' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:29:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dinero_disp' is not final.
+src/apuesta/Apuesta.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/apuesta/Apuesta.java:30:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/apuesta/Apuesta.java:30:	FieldNamingConventions:	FieldNamingConventions: The field name 'goles_local' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:30:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'goles_local' is not final.
+src/apuesta/Apuesta.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/apuesta/Apuesta.java:31:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/apuesta/Apuesta.java:31:	FieldNamingConventions:	FieldNamingConventions: The field name 'goles_visitante' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:31:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'goles_visitante' is not final.
+src/apuesta/Apuesta.java:32:	CommentRequired:	CommentRequired: Field comments are required
+src/apuesta/Apuesta.java:32:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/apuesta/Apuesta.java:37:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/apuesta/Apuesta.java:37:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/apuesta/Apuesta.java:41:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/apuesta/Apuesta.java:41:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'dinero_disp' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:41:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'goles_local' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:41:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'goles_visitante' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dinero_disp' is not assigned and could be declared final
+src/apuesta/Apuesta.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'goles_local' is not assigned and could be declared final
+src/apuesta/Apuesta.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'goles_visitante' is not assigned and could be declared final
+src/apuesta/Apuesta.java:41:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dinero_disp' is not final.
+src/apuesta/Apuesta.java:41:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'goles_local' is not final.
+src/apuesta/Apuesta.java:41:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'goles_visitante' is not final.
+src/apuesta/Apuesta.java:49:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'getDinero_disp' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:54:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'dinero_disp' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dinero_disp' is not assigned and could be declared final
+src/apuesta/Apuesta.java:54:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'setDinero_disp' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:54:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dinero_disp' is not final.
+src/apuesta/Apuesta.java:59:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/apuesta/Apuesta.java:62:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/apuesta/Apuesta.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dinero' is not assigned and could be declared final
+src/apuesta/Apuesta.java:62:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/apuesta/Apuesta.java:64:	AvoidThrowingRawExceptionTypes:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+src/apuesta/Apuesta.java:68:	AvoidThrowingRawExceptionTypes:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+src/apuesta/Apuesta.java:76:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/apuesta/Apuesta.java:80:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/apuesta/Apuesta.java:80:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'local' is not assigned and could be declared final
+src/apuesta/Apuesta.java:80:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'visitante' is not assigned and could be declared final
+src/apuesta/Apuesta.java:80:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'comprobar_resultado' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:80:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/apuesta/Apuesta.java:81:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acertado' (lines '81'-'87').
+src/apuesta/Apuesta.java:81:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acertado' (lines '81'-'90').
+src/apuesta/Apuesta.java:81:	PrematureDeclaration:	PrematureDeclaration: Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/apuesta/Apuesta.java:82:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/apuesta/Apuesta.java:83:	AvoidThrowingRawExceptionTypes:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+src/apuesta/Apuesta.java:92:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/apuesta/Apuesta.java:97:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the cobrar_apuesta method if you want a default access modifier
+src/apuesta/Apuesta.java:97:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/apuesta/Apuesta.java:97:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'cantidad_goles_local' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:97:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'cantidad_goles_visit' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:97:	LongVariable:	LongVariable: Avoid excessively long variable names like cantidad_goles_local
+src/apuesta/Apuesta.java:97:	LongVariable:	LongVariable: Avoid excessively long variable names like cantidad_goles_visit
+src/apuesta/Apuesta.java:97:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cantidad_goles_local' is not assigned and could be declared final
+src/apuesta/Apuesta.java:97:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cantidad_goles_visit' is not assigned and could be declared final
+src/apuesta/Apuesta.java:97:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'cobrar_apuesta' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Apuesta.java:97:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/apuesta/Apuesta.java:97:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'cantidad_goles_local' is not final.
+src/apuesta/Apuesta.java:97:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'cantidad_goles_visit' is not final.
+src/apuesta/Apuesta.java:99:	SimplifyBooleanExpressions:	SimplifyBooleanExpressions: Avoid unnecessary comparisons in boolean expressions
+src/apuesta/Apuesta.java:100:	AvoidThrowingRawExceptionTypes:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+src/apuesta/Main.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/apuesta/Main.java:3:	ShortClassName:	ShortClassName: Avoid short class names like Main
+src/apuesta/Main.java:3:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/apuesta/Main.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/apuesta/Main.java:5:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/apuesta/Main.java:6:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'laApuesta' could be declared final
+src/apuesta/Main.java:6:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'laApuesta'.
+src/apuesta/Main.java:7:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mi_dinero' could be declared final
+src/apuesta/Main.java:7:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'mi_dinero' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Main.java:7:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'mi_dinero'.
+src/apuesta/Main.java:7:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mi_dinero' is not final.
+src/apuesta/Main.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dinero' is not assigned and could be declared final
+src/apuesta/Main.java:12:	MethodNamingConventions:	MethodNamingConventions: The static method name 'operativa_Apuesta' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Main.java:12:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'dinero'.
+src/apuesta/Main.java:14:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'mi_dinero' doesn't match '[a-z][a-zA-Z0-9]*'
+src/apuesta/Main.java:14:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mi_dinero' is not final.
+src/apuesta/Main.java:17:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/apuesta/Main.java:19:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/apuesta/Main.java:20:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/apuesta/Main.java:24:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/apuesta/Main.java:26:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/apuesta/Main.java:27:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/apuesta/Main.java:30:	SystemPrintln:	SystemPrintln: System.out.println is used
